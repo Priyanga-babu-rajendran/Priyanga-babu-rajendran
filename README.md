@@ -29,10 +29,10 @@ I am a Data Science postgraduate student with a strong foundation in machine lea
 
 ## 📂 Projects
 
-- 🔹 Quantum Neural Network for Image Recognition and Classification (Ongoing
-- 🔹 SignTalk- A continuous word-level Indian Sign language recognition expert system using DL and ML  
-- 🔹 Computational Methods for Multilingual Sentiment Analysis in Social Media: A Systematic Review  
-- 🔹 X-ray diffraction analysis and cell parameter calculation of some of the reported silicates 
+-  Quantum Neural Network for Image Recognition and Classification (Ongoing
+-  SignTalk- A continuous word-level Indian Sign language recognition expert system using DL and ML  
+-  Computational Methods for Multilingual Sentiment Analysis in Social Media: A Systematic Review  
+-  X-ray diffraction analysis and cell parameter calculation of some of the reported silicates 
 
 ---
 
