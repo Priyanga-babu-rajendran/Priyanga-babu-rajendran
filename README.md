@@ -13,36 +13,23 @@ Guided by a physics-grounded analytical mindset, I specialize in designing hybri
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Priyanga-babu-rajendran&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="Priyanga's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanga-babu-rajendran&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanga-babu-rajendran&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 ## 🔬 Featured Research & Core Projects
 
-### 🔒 Adaptive Personalized Hybrid Quantum-Classical Federated Learning (APHQFL)
+### Adaptive Personalized Hybrid Quantum-Classical Federated Learning (APHQFL)
 * *Ongoing Master's Thesis Research | VIT Chennai (Co-author: Dr. Pankaj Shukla)*
 * Developing a personalized hybrid quantum-classical federated learning framework for intrusion detection, combining parameterized quantum models with classical machine learning components in a decentralized training setting.
 * Integrating Quantum Neural Networks (QNNs) with Differential Privacy (DP) mechanisms and an adaptive client-aggregation strategy (RASA) to account for client-level heterogeneity across NSL-KDD, UNSW-NB15, and CIC-IDS2017 datasets.
 
-### ⚛️ Quantum Kernel-Based Few-Shot Auditing for Real-Time Contextual-Integrity Violation Detection
+### Quantum Kernel-Based Few-Shot Auditing for Real-Time Contextual-Integrity Violation Detection
 * *Ongoing Research*
 * Developing a quantum kernel-based auditing framework using PennyLane/Qiskit and kernel SVM classification to detect contextual-integrity violations in LLM agent outputs before deployment.
 
-### 🤟 SignTalk: Continuous Word-Level ISL Recognition System
+### SignTalk: Continuous Word-Level ISL Recognition System
 * Engineered an end-to-end Indian Sign Language (ISL) expert system integrating **YOLOv5 object detection**, **MediaPipe 3D Landmark Extraction**, **SVM Classification**, and an **NLP grammar correction component**.
 * Achieved **~97% classification accuracy** across 82 Indian Sign Language gesture classes.
 * *[View Repository](https://github.com/Priyanga-babu-rajendran/SignTalk-ISL-Recognition)*
 
-### 📊 Distributed Web Log Analytics Using the Hadoop Ecosystem
+### Distributed Web Log Analytics Using the Hadoop Ecosystem
 * Designed and deployed a 3-node distributed Hadoop cluster incorporating **HDFS**, **YARN**, **MapReduce**, and **Apache Spark** for large-scale processing of NASA web server log data.
 * Developed an interactive **Streamlit** dashboard to visualize traffic patterns and operational insights.
 * *[View Repository](https://github.com/Priyanga-babu-rajendran/Distributed-web-log-analytics-using-hadoop-ecosystem)*
@@ -51,22 +38,9 @@ Guided by a physics-grounded analytical mindset, I specialize in designing hybri
 
 ## 📄 Publications & Reviews
 
-### 📚 Computational Methods for Multilingual Sentiment Analysis in Social Media: A Systematic Review
+### Computational Methods for Multilingual Sentiment Analysis in Social Media: A Systematic Review
 * A PRISMA-based systematic review examining computational approaches across machine learning, deep learning, and transformer-based architectures (BERT, XLM-R) for multilingual and code-mixed social media corpora.
 * *Status: Under Review — IEEE Access*
-
----
-
-## 📌 Repository Previews
-
-<p align="center">
-  <a href="https://github.com/Priyanga-babu-rajendran/Priyanga-babu-rajendran.github.io">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Priyanga-babu-rajendran&repo=Priyanga-babu-rajendran.github.io&theme=radical&hide_border=true" alt="Portfolio Repo" />
-  </a>
-  <a href="https://github.com/Priyanga-babu-rajendran/SignTalk-ISL-Recognition">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Priyanga-babu-rajendran&repo=SignTalk-ISL-Recognition&theme=radical&hide_border=true" alt="SignTalk Repo" />
-  </a>
-</p>
 
 ---
 
