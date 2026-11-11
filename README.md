@@ -1,64 +1,120 @@
-# Hi, I'm Priyanga 👋
+# Hi, I'm Priyanga B 👋
 
-🎓 MSc Data Science @ VIT Chennai  
-🔬 Physics graduate transitioning into AI,DS & Quantum Computing  
+🎓 **M.Sc. Data Science Student** | *Vellore Institute of Technology (VIT), Chennai*  
+🔬 **Physics Graduate (B.Sc.)** transitioning into **AI, Quantum Machine Learning & Privacy-Preserving FL**  
+🌐 **Website & Portfolio:** [priyanga-babu-rajendran.github.io](https://priyanga-babu-rajendran.github.io/)  
 
 ---
 
 ## 💡 About Me
-I am a Data Science postgraduate student with a strong foundation in machine learning, deep learning, and natural language processing. Experienced in building robust, data-driven pipelines and fusing diverse model architectures to achieve near-perfect classification accuracy. Driven by a profound passion for the data science field and dedicated to conducting innovative research—particularly at the intersection of classical AI and quantum computing—to architect solutions for complex real-world problems.
+I am an M.Sc. Data Science postgraduate student at Vellore Institute of Technology, Chennai, with a B.Sc. background in Physics from Sree Krishna College, Guruvayur. My work lies at the intersection of **Quantum Machine Learning (QML)**, **Federated Learning (FL)**, and **Privacy-Preserving Optimization**. 
+
+Guided by a physics-grounded analytical mindset, I specialize in designing hybrid quantum-classical architectures, parameter-shift gradient mechanics, and privacy-preserving distributed frameworks. I am actively working on adaptive hybrid quantum federated learning (APHQFL) and quantum kernel-based auditing systems for security, edge intelligence, and network intrusion detection.
 
 ---
 
-## 🚀 Skills
+## 📊 GitHub Analytics
 
-**Core Areas**
-- Machine Learning  
-- Deep Learning  
-- Natural Language Processing  
-- Data Analysis & Statistical Modeling  
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Priyanga-babu-rajendran&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="Priyanga's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanga-babu-rajendran&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
 
-**Programming**
-- Python, R, SQL, Java  
-
-**Libraries & Tools**
-- NumPy, Pandas, Scikit-learn, PyTorch, OpenCV  
-- Jupyter Notebook, Google Colab, Streamlit  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanga-babu-rajendran&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
-## 📂 Projects
+## 🔬 Featured Research & Core Projects
 
--  Quantum Neural Network for Image Recognition and Classification (Ongoing
--  SignTalk- A continuous word-level Indian Sign language recognition expert system using DL and ML  
--  Computational Methods for Multilingual Sentiment Analysis in Social Media: A Systematic Review  
--  X-ray diffraction analysis and cell parameter calculation of some of the reported silicates 
+### 🔒 Adaptive Personalized Hybrid Quantum-Classical Federated Learning (APHQFL)
+* *Ongoing Master's Thesis Research | VIT Chennai (Co-author: Dr. Pankaj Shukla)*
+* Developing a personalized hybrid quantum-classical federated learning framework for intrusion detection, combining parameterized quantum models with classical machine learning components in a decentralized training setting.
+* Integrating Quantum Neural Networks (QNNs) with Differential Privacy (DP) mechanisms and an adaptive client-aggregation strategy (RASA) to account for client-level heterogeneity across NSL-KDD, UNSW-NB15, and CIC-IDS2017 datasets.
+
+### ⚛️ Quantum Kernel-Based Few-Shot Auditing for Real-Time Contextual-Integrity Violation Detection
+* *Ongoing Research*
+* Developing a quantum kernel-based auditing framework using PennyLane/Qiskit and kernel SVM classification to detect contextual-integrity violations in LLM agent outputs before deployment.
+
+### 🤟 SignTalk: Continuous Word-Level ISL Recognition System
+* Engineered an end-to-end Indian Sign Language (ISL) expert system integrating **YOLOv5 object detection**, **MediaPipe 3D Landmark Extraction**, **SVM Classification**, and an **NLP grammar correction component**.
+* Achieved **~97% classification accuracy** across 82 Indian Sign Language gesture classes.
+* *[View Repository](https://github.com/Priyanga-babu-rajendran/SignTalk-ISL-Recognition)*
+
+### 📊 Distributed Web Log Analytics Using the Hadoop Ecosystem
+* Designed and deployed a 3-node distributed Hadoop cluster incorporating **HDFS**, **YARN**, **MapReduce**, and **Apache Spark** for large-scale processing of NASA web server log data.
+* Developed an interactive **Streamlit** dashboard to visualize traffic patterns and operational insights.
+* *[View Repository](https://github.com/Priyanga-babu-rajendran/Distributed-web-log-analytics-using-hadoop-ecosystem)*
 
 ---
 
-## 📜 Certifications
-- Career Essentials in Data Analysis | Microsoft and LinkedIn  
-- Tools for Data Science | IBM 
-- Programming for Everybody: Getting Started with Python | University of Michigan  
-- Learning MongoDB Schema, Indexes and Queries | Infosys Springboard
-- IQM Quantum School Certificate | IQM Quantum Computers
-- Agentic AI and Autonomous Intelligent Systems, 2-day Workshop | VIT, Chennai 
+## 📄 Publications & Reviews
+
+### 📚 Computational Methods for Multilingual Sentiment Analysis in Social Media: A Systematic Review
+* A PRISMA-based systematic review examining computational approaches across machine learning, deep learning, and transformer-based architectures (BERT, XLM-R) for multilingual and code-mixed social media corpora.
+* *Status: Under Review — IEEE Access*
+
+---
+
+## 📌 Repository Previews
+
+<p align="center">
+  <a href="https://github.com/Priyanga-babu-rajendran/Priyanga-babu-rajendran.github.io">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Priyanga-babu-rajendran&repo=Priyanga-babu-rajendran.github.io&theme=radical&hide_border=true" alt="Portfolio Repo" />
+  </a>
+  <a href="https://github.com/Priyanga-babu-rajendran/SignTalk-ISL-Recognition">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Priyanga-babu-rajendran&repo=SignTalk-ISL-Recognition&theme=radical&hide_border=true" alt="SignTalk Repo" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Technical Stack & Expertise
+
+| Category | Skills & Tools |
+| :--- | :--- |
+| **Research Domains** | Quantum Machine Learning, Federated Learning, Differential Privacy, Natural Language Processing, Computer Vision, Big Data |
+| **Languages** | Python, R, SQL, LaTeX |
+| **Quantum Computing** | Qiskit, PennyLane, Parameterized Quantum Circuits, Quantum Neural Networks |
+| **AI & ML Frameworks** | PyTorch, Scikit-Learn, OpenCV, NumPy, Pandas, SciPy |
+| **Distributed Systems** | Hadoop (HDFS, YARN, MapReduce), Apache Spark |
+| **Tools & Visualization** | Streamlit, Jupyter, Git / GitHub, Power BI, Matplotlib, Seaborn |
+
+---
+
+## 💼 Experience & Education
+
+### 🏢 Professional Experience
+* **Office Assistant** | Mega Motors, Hero MotoCorp (Aluva, Kerala) — *Aug 2024 – Apr 2025*  
+  Managed administrative operations, documentation, insurance policy management, and customer enquiry coordination.
+
+### 🎓 Academic Background
+* **M.Sc. Data Science** | Vellore Institute of Technology, Chennai — *2025 – 2027* (CGPA: 8.34 / 10)
+* **B.Sc. Physics** | Sree Krishna College, Guruvayur, Kerala — *2021 – 2024* (CGPA: 7.967 / 10)
+
+---
+
+## 📜 Certifications & Workshops
+- **Introduction to Quantum Information** | Korea Advanced Institute of Science and Technology (KAIST)
+- **IQM Quantum School Certificate** | IQM Quantum Computers
+- **Agentic AI and Autonomous Intelligent Systems** | VIT Chennai
+- **Data Analytics Job Simulation** | Deloitte Australia (Forage)
+- **Data Science** | IBM — Coursera
+- **Python for Everybody** | University of Michigan — Coursera
+- **Cloud Computing** | NPTEL
+- **Career Essentials in Data Analysis** | Microsoft & LinkedIn
 
 ---
 
 ## 🌐 Languages
-English | Hindi | Tamil | Malayalam | Korean (Beginner)
-<!--
-**Priyanga-babu-rajendran/Priyanga-babu-rajendran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**English** (Professional) | **Tamil** (Native) | **Malayalam** (Native) | **Hindi** (Functional) | **Korean** (Beginner)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📬 Connect with Me
+- 🌐 **Portfolio & Website:** [priyanga-babu-rajendran.github.io](https://priyanga-babu-rajendran.github.io/)
+- 🐙 **GitHub:** [@Priyanga-babu-rajendran](https://github.com/Priyanga-babu-rajendran)
+- 💼 **LinkedIn:** [priyangahere](https://linkedin.com/in/priyangahere)
+- 📧 **Academic Email:** priyanga.b2025@vitstudent.ac.in
+- 📧 **Gmail:** priyangagbr@gmail.com
